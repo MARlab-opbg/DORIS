@@ -3,9 +3,13 @@ The Dynamic Oriented Rehabilitative Integrated System
 
 **Authors**: Susanna Summa, Riccardo Gori, Luigi Freda, Enrico Castelli and Maurizio Petrarca
 
-This repository will provide upon paper acceptance part of the C++ implementation behind our paper titled **Development of a dynamic oriented rehabilitative integrated system (DORIS) and preliminary tests**. 
+This repository will provide part of the C++ implementation behind our paper titled **Development of a dynamic oriented rehabilitative integrated system (DORIS) and preliminary tests**, upon paper acceptance. 
 
-Moving platform are introduced in the field of the study of posturography since ’70 years. Commercial platforms have some limits: a limited number of Dofs; pre-configured protocols and usually they are expensive. In order to overcome these limits, we developed a robotic platform: DORIS. The adopted solution guarantees to be useful for both postural assessment and training of equilibrium and gait. The full control of its movement and of human dynamic interaction is a further benefit for the identification of innovative solutions for research and treatment in a field that is strongly investigated, but still open. DORIS is a Multi Intelligent System provided by the intergation of specific modules.
+Moving platforms are introduced in the field of the study of posturography since ’70 years. Commercial platforms have some limits: 
+* a limited number of Dofs; 
+* pre-configured protocols 
+* and usually they are expensive.   
+In order to overcome these limits, we developed a robotic platform: DORIS. The adopted solution guarantees to be useful for both postural assessment and training of equilibrium and gait. The full control of its movement and of human dynamic interaction is a further benefit for the identification of innovative solutions for research and treatment in a field that is strongly investigated, but still open. DORIS is a Multi Intelligent System provided by the integration of specific modules.
 
 <p align="center">
 <img src="images/System-architecture-v2.png"
