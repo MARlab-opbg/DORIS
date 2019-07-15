@@ -38,4 +38,7 @@ This project is partially supported by Pegaso Onlus (Grant numbers: opbg-201603x
 
 ----
 ## Acknowledgments
-Mufy (http://www.mufy.it/it/) and Promax (http://www.promax.it/home) provided the technical support in realizing the mechanical structure and for the IT development of the platform control. And GPEM (https://www.gpem.net) helped us  in the integration of the instrumented pole with the motion capture system. Inglobe Technologies (https://www.inglobetechnologies.com) developed the virtual reality that was integrated with the DORIS system. 
+- [Mufy](http://www.mufy.it/it/) provided the technical support in realizing the mechanical structure. 
+- [Promax](http://www.promax.it/home) provided the technical support for the IT development of the platform control. 
+- [GPEM](https://www.gpem.net) helped us in the integration of the instrumented pole with the motion capture system. 
+- [Inglobe Technologies](https://www.inglobetechnologies.com) developed the virtual reality and helped us in the multi-system and control integration under ROS. 
