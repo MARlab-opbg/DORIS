@@ -5,7 +5,7 @@ The Dynamic Oriented Rehabilitative Integrated System
 
 This repository will provide part of the C++ implementation behind our paper titled **Development of a dynamic oriented rehabilitative integrated system (DORIS) and preliminary tests**, upon paper acceptance. 
 
-Moving platforms were introduced in the research field of posturography in ’70s. Commercial platforms have some limits: *(i)* a limited number of Dofs, *(ii)* pre-configured protocols and *(iii)* usually they are expensive.   
+Moving platforms were introduced in the research field of posturography in ’70s. Despite the large progress has been made since then, current commercial moving platforms present some limits: *(i)* a limited number of Dofs, *(ii)* pre-configured protocols and *(iii)* usually they are expensive.   
 In order to overcome these limits, we developed a robotic platform: DORIS. The adopted solution guarantees to be useful for both postural assessment and training of equilibrium and gait. The full control of its movement and of human dynamic interaction is a further benefit for the identification of innovative solutions for research and treatment in a field that is strongly investigated, but still open. DORIS is a Multi Intelligent System provided by the integration of specific modules.
 
 <p align="center">
